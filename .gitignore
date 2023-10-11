@@ -1,0 +1,9 @@
+# Archivos y carpetas generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpeta del entorno virtual (cambia "env" al nombre de tu entorno virtual si es diferente)
+env/
+temp/
+# Archivos de subtitulos
+.txt
